@@ -22,7 +22,7 @@ Follow these steps to set up the development environment on your local machine.
 ```bash
 git clone [https://github.com/nazrul121/task-management-for-coalition-technologies](https://github.com/nazrul121/task-management-for-coalition-technologies)
 cd task-management-for-coalition-technologies
-
+```
 
 ### 2. Install Dependencies (optional)
 Install the backend PHP packages and compile the frontend utility classes:
